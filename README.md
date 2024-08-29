@@ -1,5 +1,4 @@
 # Ciclos-y-Arreglos-2
-SEGUNDO PUNTO DE "CICLOS Y ARREGLOS"
 
 #include<stdio.h>
 
